@@ -1,0 +1,42 @@
+{
+    "00312-ZED-Right-1622129636.png": {
+        "count": 11,
+        "output_image": "log_count\\detected_00312-ZED-Right-1622129636.png"
+    },
+    "00344-ZED-Right-1622131489.png": {
+        "count": 11,
+        "output_image": "log_count\\detected_00344-ZED-Right-1622131489.png"
+    },
+    "00352-ZED-Left-1622131909.png": {
+        "count": 11,
+        "output_image": "log_count\\detected_00352-ZED-Left-1622131909.png"
+    },
+    "00357-ZED-Left-1622132194.png": {
+        "count": 11,
+        "output_image": "log_count\\detected_00357-ZED-Left-1622132194.png"
+    },
+    "00371-ZED-Left-1622132909.png": {
+        "count": 11,
+        "output_image": "log_count\\detected_00371-ZED-Left-1622132909.png"
+    },
+    "00414-ZED-Left-1622129519.png": {
+        "count": 9,
+        "output_image": "log_count\\detected_00414-ZED-Left-1622129519.png"
+    },
+    "00425-ZED-Left-1622130153.png": {
+        "count": 8,
+        "output_image": "log_count\\detected_00425-ZED-Left-1622130153.png"
+    },
+    "00440-ZED-Right-1622130941.png": {
+        "count": 8,
+        "output_image": "log_count\\detected_00440-ZED-Right-1622130941.png"
+    },
+    "00516-ZED-Right-1622129660.png": {
+        "count": 9,
+        "output_image": "log_count\\detected_00516-ZED-Right-1622129660.png"
+    },
+    "00580-ZED-Right-1622133271.png": {
+        "count": 9,
+        "output_image": "log_count\\detected_00580-ZED-Right-1622133271.png"
+    }
+}
