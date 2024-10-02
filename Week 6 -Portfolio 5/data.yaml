@@ -1,0 +1,5 @@
+train: C:/assignments/Ai_for_eng/Portfolio_6/yolo_annotations/train  # Update to the correct path
+val: C:/assignments/Ai_for_eng/Portfolio_6/yolo_annotations/test    # Update to the correct path
+
+nc: 1  # Number of classes
+names: ['graffiti']  # List of class names
